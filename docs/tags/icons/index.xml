@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>icons on Francesco Giorgi Graphic Designer</title>
+    <link>https://mattimonte03.github.io/tags/icons/</link>
+    <description>Recent content in icons on Francesco Giorgi Graphic Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mattimonte03.github.io/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Icons</title>
+      <link>https://mattimonte03.github.io/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattimonte03.github.io/samples/icons/</guid>
+      <description>Blowfish has built-in support for a number of icons. These can be included in your website through either the [ Additionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the assets/icons/ directory in the root of your project.</description>
+    </item>
+    
+  </channel>
+</rss>

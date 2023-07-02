@@ -1,0 +1,28 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Francesco Giorgi Graphic Designer"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "3 October 2003"
+  logo = "img/LogoPN.png"
+  # secondaryLogo = "PATH"
+  description = "Le regole sono ciò che l'artista deve rompere; da una formula non è mai scaturito niente di memorabile"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Francesco Giorgi"
+  image = "img/Logo.jpg"
+  headline = "Le regole sono ciò che l'artista deve rompere; da una formula non è mai scaturito niente di memorabile"
+  bio = "Le regole sono ciò che l'artista deve rompere; da una formula non è mai scaturito niente di memorabile"
+  links = [
+  # { twitter = "https://twitter.com/burufugu" },
+  # { mastodon = "https://masto.ai/@blowfish" },
+  # { github = "https://github.com/nunocoracao/blowfish" },
+    { instagram = "https://instagram.com/francescogiorgi__?igshid=Y2I2MzMwZWM3ZA=="}
+  ]
+
+  

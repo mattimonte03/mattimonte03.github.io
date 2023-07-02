@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on Francesco Giorgi Graphic Designer</title>
+    <link>https://mattimonte03.github.io/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on Francesco Giorgi Graphic Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mattimonte03.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Icons</title>
+      <link>https://mattimonte03.github.io/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattimonte03.github.io/samples/icons/</guid>
+      <description>Blowfish has built-in support for a number of icons. These can be included in your website through either the [ Additionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the assets/icons/ directory in the root of your project.</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://mattimonte03.github.io/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattimonte03.github.io/samples/rich-content/</guid>
+      <description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
+    </item>
+    
+    <item>
+      <title>Mathematical notation</title>
+      <link>https://mattimonte03.github.io/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattimonte03.github.io/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://mattimonte03.github.io/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattimonte03.github.io/samples/charts/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+    </item>
+    
+    <item>
+      <title>Diagrams and Flowcharts</title>
+      <link>https://mattimonte03.github.io/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattimonte03.github.io/samples/diagrams-flowcharts/</guid>
+      <description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
+    </item>
+    
+  </channel>
+</rss>
